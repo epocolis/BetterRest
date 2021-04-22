@@ -11,6 +11,7 @@
 		79B041C526320D8D00F016F8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79B041C426320D8D00F016F8 /* ContentView.swift */; };
 		79B041C726320D9100F016F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79B041C626320D9100F016F8 /* Assets.xcassets */; };
 		79B041CA26320D9100F016F8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79B041C926320D9100F016F8 /* Preview Assets.xcassets */; };
+		79B041D3263217D800F016F8 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 79B041D2263217D800F016F8 /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		79B041C626320D9100F016F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79B041C926320D9100F016F8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		79B041CB26320D9100F016F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79B041D2263217D800F016F8 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = SleepCalculator.mlmodel; path = ../../../../Desktop/SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				79B041C426320D8D00F016F8 /* ContentView.swift */,
 				79B041C626320D9100F016F8 /* Assets.xcassets */,
 				79B041CB26320D9100F016F8 /* Info.plist */,
+				79B041D2263217D800F016F8 /* SleepCalculator.mlmodel */,
 				79B041C826320D9100F016F8 /* Preview Content */,
 			);
 			path = BetterRest;
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79B041C526320D8D00F016F8 /* ContentView.swift in Sources */,
+				79B041D3263217D800F016F8 /* SleepCalculator.mlmodel in Sources */,
 				79B041C326320D8D00F016F8 /* BetterRestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
